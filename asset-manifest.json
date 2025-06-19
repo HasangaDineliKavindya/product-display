@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/product-display/static/css/main.ef2e8bdb.css",
+    "main.js": "/product-display/static/js/main.fd6ae2f8.js",
+    "static/js/453.3174865b.chunk.js": "/product-display/static/js/453.3174865b.chunk.js",
+    "static/media/W1.jpg": "/product-display/static/media/W1.58e8b7d0c88f7c386e9a.jpg",
+    "static/media/Cubiklogo.png": "/product-display/static/media/Cubiklogo.7a86e82a7764c16e1ff5.png",
+    "index.html": "/product-display/index.html",
+    "main.ef2e8bdb.css.map": "/product-display/static/css/main.ef2e8bdb.css.map",
+    "main.fd6ae2f8.js.map": "/product-display/static/js/main.fd6ae2f8.js.map",
+    "453.3174865b.chunk.js.map": "/product-display/static/js/453.3174865b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef2e8bdb.css",
+    "static/js/main.fd6ae2f8.js"
+  ]
+}
