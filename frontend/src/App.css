@@ -1,0 +1,15 @@
+/* src/App.css */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f3f4f6;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #1f2937;
+}
+/* Responsive CSS for other components */
+.table-responsive-container {
+  overflow-x: auto; /* Ensures table is scrollable on very small screens before it wraps */
+}
